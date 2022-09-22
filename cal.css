@@ -1,0 +1,60 @@
+.body{
+    background-color:black;
+}
+
+.maindiv{
+    width: 500px;
+    height: 500px;
+    background-color:black;
+    margin-top:2.5cm;
+    margin-left: 13.5cm;
+    border-color: rgb(54, 54, 197);
+    border: solid;
+    border-radius: 6px;
+}
+
+.screen{
+    height: 1.5cm;
+    width: 10cm;
+    border: solid black;
+    border-radius: 5px;
+    float: left;
+    font-size: 30px;
+   
+    
+    font
+}
+
+.button{
+    width: 2.5cm;
+    height: 1.6cm;
+    border: solid black;
+    background-color: green;
+    margin-left: .17cm;
+    margin-top: .10cm;
+    border-radius:5px ;
+    color: white;
+    font-size: 30px;
+ 
+}
+
+.numbutton{
+    width: 3.26cm;
+    height:1.6cm ;
+    border:solid black ;
+    background-color: green;
+    margin-left: .17cm;
+    margin-top: .10cm;
+    border-radius: 5px;
+    font-size: 30px;
+    color: white;
+}
+
+.numbutton:hover{
+    background-color: darkgreen;
+}
+
+.button:hover{
+    background-color: darkgreen;
+    
+}
